@@ -1,0 +1,32 @@
+{
+  "name": "planttopia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louiemc/planttopia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/louiemc/planttopia/issues"
+  },
+  "homepage": "https://github.com/louiemc/planttopia#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5",
+    "cssnano": "^5.0.8",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "gulp-terser": "^2.0.1"
+  },
+  "devDependencies": {
+    "gulp-postcss": "^9.0.1",
+    "postcss": "^8.3.6",
+    "sass": "^1.40.0"
+  }
+}

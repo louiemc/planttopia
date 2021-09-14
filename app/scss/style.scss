@@ -1,0 +1,36 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+  font-family: "Courier New", Courier, monospace;
+  background-color: #984f29;
+  background-image: url("../../img/katya-austin-4Vg6ez9jaec-unsplash.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 30% center;
+}
+
+h1,
+h2,
+h3 {
+  margin-top: 0;
+  line-height: 1.5;
+  margin-bottom: 0.5rem;
+  color: #fff;
+}
+
+p,
+li {
+  color: #fff;
+}
